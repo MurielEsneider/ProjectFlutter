@@ -1,0 +1,2 @@
+C:/Users/eesne/Downloads/Mobile/FrontendFlutter/android/app/.cxx/Debug/6o1pa2p6/x86/CMakeFiles/edit_cache.dir
+C:/Users/eesne/Downloads/Mobile/FrontendFlutter/android/app/.cxx/Debug/6o1pa2p6/x86/CMakeFiles/rebuild_cache.dir
